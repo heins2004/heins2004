@@ -1,171 +1,106 @@
 <div align="center">
 
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                     GLITCH HEADER                         -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:020818,50:0ea5e9,100:020818&height=220&section=header&text=Heins%20Devasia&fontSize=60&fontColor=38bdf8&animation=glitch&fontAlignY=55&desc=Full%20Stack%20Developer&descSize=20&descAlignY=75&descColor=7dd3fc" width="100%"/>
-
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                     TYPING BANNER                         -->
-<!-- ══════════════════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0015,50:3b0764,100:0d0015&height=200&section=header&text=%3E%20initializing%20heins2004...&fontSize=32&fontColor=c084fc&animation=blinking&fontAlignY=45&desc=Full%20Stack%20Developer%20%7C%20System%20Ready%20%E2%9C%94&descSize=16&descAlignY=65&descColor=a855f7" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Heins+Devasia+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Building+Clean+%26+User-Friendly+Solutions+%F0%9F%8E%A8;React+%7C+Python+%7C+PHP+%7C+MySQL+%7C+PostgreSQL;Turning+Ideas+Into+Reality+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&width=650&lines=%5BBOOT%5D+Loading+developer+profile...+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+100%25;%5BOK%5D+Full+Stack+modules+mounted;%5BOK%5D+React+%7C+Python+%7C+PHP+%7C+MySQL+%7C+PostgreSQL;%5BOK%5D+Clean+%26+user-friendly+solutions+enabled;%5BREADY%5D+heins2004+is+online+%E2%9A%A1" alt="Typing SVG" />
 </a>
+
+</div>
 
 <br/>
 
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                   TERMINAL BIO CARD                       -->
-<!-- ══════════════════════════════════════════════════════════ -->
+---
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║  > whoami                                                    ║
-║                                                              ║
-║    Name   :  Heins Devasia                                   ║
-║    Handle :  heins2004                                       ║
-║    Role   :  Full Stack Developer                            ║
-║    Focus  :  Clean · Simple · User-Friendly Solutions        ║
-║    Status :  Always building something awesome... ⚡         ║
-╚══════════════════════════════════════════════════════════════╝
+## `$ whoami`
+
+```yaml
+Name    : Heins Devasia
+Handle  : heins2004
+Role    : Full Stack Developer
+Status  : Student & Developer
+Focus   : Clean · Simple · User-Friendly Solutions
+Motto   : "Code fades. The feeling it leaves behind — that's what I build for."
 ```
 
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                   PROFILE BADGES                          -->
-<!-- ══════════════════════════════════════════════════════════ -->
+---
 
-[![GitHub followers](https://img.shields.io/github/followers/heins2004?style=for-the-badge&logo=github&logoColor=white&color=38bdf8&labelColor=020818&label=FOLLOWERS)](https://github.com/heins2004)
-[![GitHub stars](https://img.shields.io/github/stars/heins2004?style=for-the-badge&logo=github&logoColor=white&color=38bdf8&labelColor=020818&label=STARS)](https://github.com/heins2004)
-[![Profile views](https://komarev.com/ghpvc/?username=heins2004&style=for-the-badge&color=38bdf8&labelColor=020818&label=PROFILE+VIEWS)](https://github.com/heins2004)
+## `$ cat skills.json`
+
+<div align="center">
+
+### Frontend
+![React](https://img.shields.io/badge/React-0d0015?style=for-the-badge&logo=react&logoColor=c084fc)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d0015?style=for-the-badge&logo=javascript&logoColor=c084fc)
+![HTML5](https://img.shields.io/badge/HTML5-0d0015?style=for-the-badge&logo=html5&logoColor=c084fc)
+![CSS3](https://img.shields.io/badge/CSS3-0d0015?style=for-the-badge&logo=css3&logoColor=c084fc)
+
+### Backend
+![Python](https://img.shields.io/badge/Python-0d0015?style=for-the-badge&logo=python&logoColor=a855f7)
+![PHP](https://img.shields.io/badge/PHP-0d0015?style=for-the-badge&logo=php&logoColor=a855f7)
+![Java](https://img.shields.io/badge/Java-0d0015?style=for-the-badge&logo=openjdk&logoColor=a855f7)
+![C](https://img.shields.io/badge/C-0d0015?style=for-the-badge&logo=c&logoColor=a855f7)
+![Node.js](https://img.shields.io/badge/Node.js-0d0015?style=for-the-badge&logo=node.js&logoColor=a855f7)
+
+### Database & Cloud
+![MySQL](https://img.shields.io/badge/MySQL-0d0015?style=for-the-badge&logo=mysql&logoColor=7c3aed)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d0015?style=for-the-badge&logo=postgresql&logoColor=7c3aed)
+![Render](https://img.shields.io/badge/Render-0d0015?style=for-the-badge&logo=render&logoColor=7c3aed)
+
+### Mobile & Tools
+![Android](https://img.shields.io/badge/Android-0d0015?style=for-the-badge&logo=android&logoColor=c084fc)
+![Git](https://img.shields.io/badge/Git-0d0015?style=for-the-badge&logo=git&logoColor=c084fc)
+![VS Code](https://img.shields.io/badge/VS_Code-0d0015?style=for-the-badge&logo=visual-studio-code&logoColor=c084fc)
+![Linux](https://img.shields.io/badge/Linux-0d0015?style=for-the-badge&logo=linux&logoColor=c084fc)
+![Figma](https://img.shields.io/badge/Figma-0d0015?style=for-the-badge&logo=figma&logoColor=c084fc)
 
 </div>
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                     TECH ARSENAL                          -->
-<!-- ══════════════════════════════════════════════════════════ -->
+## `$ github --stats`
 
 <div align="center">
 
-### ⚡ Tech Arsenal
+<img height="175px" src="https://github-readme-stats.vercel.app/api?username=heins2004&show_icons=true&hide_border=true&bg_color=0d0015&title_color=c084fc&icon_color=a855f7&text_color=d8b4fe&ring_color=7c3aed&include_all_commits=true&count_private=true"/>
+<img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heins2004&layout=compact&langs_count=6&hide_border=true&bg_color=0d0015&title_color=c084fc&text_color=d8b4fe"/>
 
-</div>
+<br/>
 
-**Frontend**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Backend**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-
-**Database**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Tools & DevOps**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--               GITHUB STATS TRIFECTA                       -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-### 📊 GitHub Stats
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=heins2004&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=020818&title_color=38bdf8&icon_color=38bdf8&text_color=7dd3fc&ring_color=0ea5e9"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heins2004&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=020818&title_color=38bdf8&text_color=7dd3fc"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=heins2004&theme=dark&hide_border=true&background=020818&stroke=0ea5e9&ring=38bdf8&fire=ff6b6b&currStreakLabel=38bdf8&sideLabels=7dd3fc&dates=4b7197&currStreakNum=ffffff&sideNums=ffffff"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=heins2004&hide_border=true&background=0d0015&stroke=7c3aed&ring=a855f7&fire=c084fc&currStreakLabel=c084fc&sideLabels=d8b4fe&dates=4c1d95&currStreakNum=f5d0fe&sideNums=f5d0fe"/>
 
 </div>
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                  ACTIVITY GRAPH                           -->
-<!-- ══════════════════════════════════════════════════════════ -->
+## `$ git log --graph`
 
 <div align="center">
 
-### 🌐 Contribution Activity
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=heins2004&bg_color=020818&color=38bdf8&line=0ea5e9&point=ffffff&area=true&area_color=0ea5e9&hide_border=true&title_color=38bdf8)](https://github.com/heins2004)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=heins2004&bg_color=0d0015&color=c084fc&line=a855f7&point=f5d0fe&area=true&area_color=3b0764&hide_border=true&title_color=c084fc&custom_title=Heins%20Devasia's%20Contribution%20Graph)](https://github.com/heins2004)
 
 </div>
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                  SNAKE ANIMATION                          -->
-<!-- ══════════════════════════════════════════════════════════ -->
+## `$ cat trophies.log`
 
 <div align="center">
 
-### 🐍 Contributions Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/heins2004/heins2004/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/heins2004/heins2004/output/github-snake.svg"/>
-  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/heins2004/heins2004/output/github-snake.svg"/>
-</picture>
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=heins2004&theme=dracula&no-frame=true&no-bg=true&column=7&margin-w=6)](https://github.com/heins2004)
 
 </div>
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                  TROPHY SHOWCASE                          -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-### 🏆 Trophies
+[![GitHub followers](https://img.shields.io/github/followers/heins2004?style=for-the-badge&logo=github&logoColor=white&color=a855f7&labelColor=0d0015&label=FOLLOWERS)](https://github.com/heins2004)
+[![GitHub stars](https://img.shields.io/github/stars/heins2004?style=for-the-badge&logo=github&logoColor=white&color=a855f7&labelColor=0d0015&label=STARS)](https://github.com/heins2004)
+[![Profile views](https://komarev.com/ghpvc/?username=heins2004&style=for-the-badge&color=a855f7&labelColor=0d0015&label=PROFILE+VIEWS)](https://github.com/heins2004)
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=heins2004&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8)](https://github.com/heins2004)
+<br/>
 
-</div>
-
----
-
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                  FOOTER QUOTE + WAVE                      -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║        Code fades. The feeling it leaves behind —            ║
-║         that's what I build for.                             ║
-║                                                              ║
-║                                        — Heins Devasia       ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020818,100:0ea5e9&height=120&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0015,50:3b0764,100:0d0015&height=120&section=footer&animation=twinkling" width="100%"/>
 
 </div>
