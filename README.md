@@ -68,7 +68,7 @@ Motto   : "Code fades. The feeling it leaves behind — that's what I build for.
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=heins2004&hide_border=true&background=0d0015&stroke=7c3aed&ring=a855f7&fire=c084fc&currStreakLabel=c084fc&sideLabels=d8b4fe&dates=4c1d95&currStreakNum=f5d0fe&sideNums=f5d0fe&mode=weekly"/>
+<img src="https://streak-stats.demolab.com?user=heins2004&hide_border=true&background=0d0015&stroke=7c3aed&ring=a855f7&fire=c084fc&currStreakLabel=c084fc&sideLabels=d8b4fe&dates=4c1d95&currStreakNum=f5d0fe&sideNums=f5d0fe"/>
 
 </div>
 
