@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0015,50:3b0764,100:0d0015&height=200&section=header&text=%3E%20initializing%20heins2004...&fontSize=32&fontColor=c084fc&animation=blinking&fontAlignY=45&desc=Full%20Stack%20Developer%20%7C%20System%20Ready%20%E2%9C%94&descSize=16&descAlignY=65&descColor=a855f7" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&width=650&lines=%5BBOOT%5D+Loading+developer+profile...+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+100%25;%5BOK%5D+Full+Stack+modules+mounted;%5BOK%5D+React+%7C+Python+%7C+PHP+%7C+MySQL+%7C+PostgreSQL;%5BOK%5D+Clean+%26+user-friendly+solutions+enabled;%5BREADY%5D+heins2004+is+online+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&width=650&lines=BOOT%3A+Loading+developer+profile...+100%25;OK%3A+Full+Stack+modules+mounted;OK%3A+React+%7C+Python+%7C+PHP+%7C+Java+%7C+C+%7C+Android;OK%3A+Clean+%26+user-friendly+solutions+enabled;READY%3A+heins2004+is+online+%E2%9A%A1" alt="Typing SVG" />
 </a>
 
 </div>
@@ -62,12 +62,13 @@ Motto   : "Code fades. The feeling it leaves behind — that's what I build for.
 
 <div align="center">
 
-<img height="175px" src="https://github-readme-stats.vercel.app/api?username=heins2004&show_icons=true&hide_border=true&bg_color=0d0015&title_color=c084fc&icon_color=a855f7&text_color=d8b4fe&ring_color=7c3aed&include_all_commits=true&count_private=true"/>
-<img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heins2004&layout=compact&langs_count=6&hide_border=true&bg_color=0d0015&title_color=c084fc&text_color=d8b4fe"/>
+<img height="175px" src="https://github-readme-stats.vercel.app/api?username=heins2004&show_icons=true&hide_border=true&bg_color=0d0015&title_color=c084fc&icon_color=a855f7&text_color=d8b4fe&ring_color=7c3aed&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+&nbsp;
+<img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heins2004&layout=compact&langs_count=6&hide_border=true&bg_color=0d0015&title_color=c084fc&text_color=d8b4fe&cache_seconds=1800"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=heins2004&hide_border=true&background=0d0015&stroke=7c3aed&ring=a855f7&fire=c084fc&currStreakLabel=c084fc&sideLabels=d8b4fe&dates=4c1d95&currStreakNum=f5d0fe&sideNums=f5d0fe"/>
+<img src="https://streak-stats.demolab.com?user=heins2004&hide_border=true&background=0d0015&stroke=7c3aed&ring=a855f7&fire=c084fc&currStreakLabel=c084fc&sideLabels=d8b4fe&dates=4c1d95&currStreakNum=f5d0fe&sideNums=f5d0fe&mode=weekly"/>
 
 </div>
 
@@ -87,7 +88,7 @@ Motto   : "Code fades. The feeling it leaves behind — that's what I build for.
 
 <div align="center">
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=heins2004&theme=dracula&no-frame=true&no-bg=true&column=7&margin-w=6)](https://github.com/heins2004)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=heins2004&theme=dracula&no-frame=true&no-bg=true&column=7&margin-w=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/heins2004)
 
 </div>
 
