@@ -12,8 +12,6 @@
 
 ---
 
-## `$ whoami`
-
 ```yaml
 Name    : Heins Devasia
 Handle  : heins2004
@@ -24,8 +22,6 @@ Motto   : "Code fades. The feeling it leaves behind — that's what I build for.
 ```
 
 ---
-
-## `$ cat skills.json`
 
 <div align="center">
 
@@ -58,8 +54,6 @@ Motto   : "Code fades. The feeling it leaves behind — that's what I build for.
 
 ---
 
-## `$ github --stats`
-
 <div align="center">
 
 <img height="175px" src="https://github-readme-stats.vercel.app/api?username=heins2004&show_icons=true&hide_border=true&bg_color=0d0015&title_color=c084fc&icon_color=a855f7&text_color=d8b4fe&ring_color=7c3aed&include_all_commits=true&count_private=true&cache_seconds=1800"/>
@@ -74,8 +68,6 @@ Motto   : "Code fades. The feeling it leaves behind — that's what I build for.
 
 ---
 
-## `$ git log --graph`
-
 <div align="center">
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=heins2004&bg_color=0d0015&color=c084fc&line=a855f7&point=f5d0fe&area=true&area_color=3b0764&hide_border=true&title_color=c084fc&custom_title=Heins%20Devasia's%20Contribution%20Graph)](https://github.com/heins2004)
@@ -83,8 +75,6 @@ Motto   : "Code fades. The feeling it leaves behind — that's what I build for.
 </div>
 
 ---
-
-## `$ cat trophies.log`
 
 <div align="center">
 
