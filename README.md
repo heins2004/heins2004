@@ -12,8 +12,6 @@
 
 ---
 
-<div align="center"><h2><code>$ whoami</code></h2></div>
-
 ```yaml
 Name    : Heins Devasia
 Handle  : heins2004
