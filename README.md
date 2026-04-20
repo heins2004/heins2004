@@ -23,8 +23,6 @@ Motto   : "Code fades. The feeling it leaves behind — that's what I build for.
 
 ---
 
-<div align="center"><h2><code>$ cat skills.json</code></h2></div>
-
 <div align="center">
 
 **` Frontend `**
@@ -65,8 +63,6 @@ Motto   : "Code fades. The feeling it leaves behind — that's what I build for.
 </div>
 
 ---
-
-<div align="center"><h2><code>$ github --stats</code></h2></div>
 
 <div align="center">
 
